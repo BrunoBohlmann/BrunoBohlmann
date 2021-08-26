@@ -14,11 +14,9 @@ ___
 
 ___
 
-<h2>Estudios</h2>
-
+<h2>¿Qué es lo que hago?<h2>
 <p>
-	¿Qué es lo que hago?<hr>
-	◼ Soy Desarrollador Full Stack orientado mas al Back-End y cuento con una experiencia corta pero firme gracias a los proyectos que he realizado (PokemonApi) y estoy realizando (E-commerce) en el bootcamp soy Henry.<hr>
+	◼ Soy Desarrollador Full Stack orientado mas al Back-End y cuento con una experiencia corta pero firme gracias a los proyectos que he realizado (PokemonApi) y 		 estoy realizando (E-commerce) en el bootcamp soy Henry.<br>
 	◼ En este trayecto he aprendido lo necesario para ser un Full Stack. #JavaScript #React #Redux #CSS #HTML #Sequelize #Node #Express #PostgreSQL #Git
 </p>
 
