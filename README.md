@@ -9,10 +9,8 @@ ___
 <p>
 	¡Me presento! 😄
 	Soy Bruno y tengo 18 años. Soy de Argentina y estoy dando mis primeros pasos en el mundo IT. 🤓
-	Me defino como un apasionado, apasionado por la tecnología, la música y el espacio, y quiero dejar mi huella en esto 🚀
+	Me defino como un apasionado... apasionado por la tecnología, la música y el espacio, y quiero dejar mi huella en esto 🚀
 </p>
-
-___
 
 <h2>¿Qué es lo que hago?<h2>
 <p>
