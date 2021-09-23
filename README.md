@@ -9,9 +9,11 @@ ___
 <p>
 	¡Me presento! 😄
 	Soy Bruno y tengo 18 años. Soy de Argentina y estoy dando mis primeros pasos en el mundo IT. 🤓
-	Me defino como un apasionado... apasionado por la tecnología, la música y el espacio, y quiero dejar mi huella en esto 🚀
+	Me defino como un apasionado... apasionado por la tecnología, la música y el espacio, y quiero dejar mi huella en esto algun dia 🚀
 </p>
 
+	<h3>Pero bueno... por algun lado hay q empezar</h3>
+	<br>
 <h2>¿Qué es lo que hago?<h2>
 <p>
 	◼ Soy Desarrollador Full Stack orientado mas al Back-End y cuento con una experiencia corta pero firme gracias a los proyectos que he realizado (PokemonApi) y 		 estoy realizando (E-commerce) en el bootcamp soy Henry.<br>
