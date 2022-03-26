@@ -19,7 +19,7 @@ ___
 	◼ Soy Desarrollador Full Stack y cuento con una experiencia corta pero firme gracias a los proyectos que he realizado (PokemonApi) (E-commerce) en el bootcamp soy Henry.<br>
 	◼ En este trayecto he aprendido lo necesario para ser un Full Stack. #JavaScript #React #Redux #CSS #HTML #Sequelize #Node #Express #PostgreSQL #Git
 	<br>
-	◼ Ademas he aprendido por mi cuenta #MongoDB #TailwindCss #MaterialUI y en proceso de aprendizaje de Next.js
+	◼ Ademas he aprendido por mi cuenta #MongoDB #TailwindCss #MaterialUI y estoy en proceso de aprendizaje de Next.js
 </p>
 
 <h2>Si queres contactarme<h2>
