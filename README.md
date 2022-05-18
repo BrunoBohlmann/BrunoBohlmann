@@ -17,12 +17,27 @@ ___
 <h2>¿Qué es lo que hago?<h2>
 <p>
 	◼ Soy Desarrollador Full Stack y cuento con una experiencia corta pero firme gracias a los proyectos que he realizado (PokemonApi) (E-commerce) en el bootcamp soy Henry.<br>
-	◼ En este trayecto he aprendido lo necesario para ser un Full Stack. #JavaScript #React #Redux #CSS #HTML #Sequelize #Node #Express #PostgreSQL #Git
+	◼ En este trayecto he aprendido lo necesario para ser un Full Stack. 
+	JavaScript 
+	React 
+	Redux 
+	CSS 
+	HTML 
+	Sequelize 
+	Node 
+	Express 
+	PostgreSQL 
+	Git
 	<br>
-	◼ Ademas he aprendido por mi cuenta #MongoDB #TailwindCss #MaterialUI y estoy en proceso de aprendizaje de Next.js
+	◼ Ademas he aprendido por mi cuenta 
+	MongoDB 
+	TailwindCss 
+	MaterialUI 
+	Y aprendiendo Next.js
 </p>
 
 <h2>Si queres contactarme<h2>
 
-- https://www.linkedin.com/in/bruno-bohlmann/
-- https://wa.link/iz686v
+- Linkedin: https://www.linkedin.com/in/bruno-bohlmann/
+- E-mail: brunobohlman25@gmail.com
+- WhatsApp: https://wa.link/iz686v
